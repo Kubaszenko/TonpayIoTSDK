@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kubaszenko/KubaszenkoModule.git"
+    "url": "git+https://github.com/Kubaszenko/TonpayIoTSDK.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kubaszenko/Module/issues"
+    "url": "https://github.com/Kubaszenko/TonpayIoTSDK/issues"
   },
-  "homepage": "https://github.com/Kubaszenko/Module#readme",
+  "homepage": "https://github.com/Kubaszenko/TonpayIoTSDK#readme",
   "files": [
     "lib/**/*"
   ],

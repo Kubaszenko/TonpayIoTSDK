@@ -1,4 +1,4 @@
-import { Greeter } from '../index';
-test('My Greeter', () => {
-  expect(Greeter('Carl')).toBe('Hello Carl');
+import { CryptoTerminalMVP } from '../index';
+test('Hi Test', () => {
+  console.log("test");
 });
