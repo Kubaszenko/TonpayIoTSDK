@@ -1,6 +1,6 @@
 {
   "name": "tonpayiotsdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tonpay x TonOG iot connection SDK ",
   "main": "index.js",
   "scripts": {
