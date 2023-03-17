@@ -8,17 +8,18 @@ https://github.com/katakumby/ton-pos-esp32
 
 To see example go to example folder
 
-```cd .\example
 ```
-
+cd .\example
+```
 
 then run
 
-```npm install
 ```
-
+npm install
+```
 
 after that you can simpply
 
-```npm run dev
+```
+npm run dev
 ```
